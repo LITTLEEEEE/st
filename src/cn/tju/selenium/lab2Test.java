@@ -22,7 +22,7 @@ import org.testng.annotations.Listeners;
 import cn.tju.selenium.readExcel.student;
 import jxl.read.biff.BiffException;
 @Listeners({cn.tju.selenium.AssertionListener.class})
-public class TestBaidu {
+public class lab2Test {
   private static WebDriver driver;
   private static String baseUrl;
   private boolean acceptNextAlert = true;
